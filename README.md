@@ -119,19 +119,6 @@ Education and training alignment
 
 Industry trend analysis
 
-📁 Project Structure
-Career-Stability-Dashboard/
-│
-├── Dataset/
-│   └── career_data.csv
-│
-├── PowerBI/
-│   └── career_stability_dashboard.pbix
-│
-├── Images/
-│   └── dashboard_preview.png
-│
-└── README.md
 
 📌 Skills Demonstrated
 
